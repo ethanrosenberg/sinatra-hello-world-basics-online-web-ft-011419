@@ -6,6 +6,5 @@ get '/' do
   puts "Hello, World!"
 end
 
-end
 
 end
